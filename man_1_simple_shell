@@ -1,6 +1,6 @@
 B.\"Manpage for simple shell
 
-.TH SODASH 1 "August 2019" "Holberton School" "SODA SHELL - Simple Shell man page"
+.TH SODASH 1 "APRIL 2023"  "SODA SHELL - Simple Shell man page"
 
 .SH NAME
 sodash\fR \- simple UNIX command interpreter
